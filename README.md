@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ObyOkadigbo
-- 👀 I’m interested in Data Analysis..
-- 🌱 I’m currently learning .Data Analysis..
-- 💞️ I’m looking to collaborate on ...
+### Hi there 👋
+
+I’m [@ObyOkadigbo](https://www.linkedin.com/in/oby-okadigbo-59170312/)!
+
+- 👀 I’m interested in: Data Analytics
+- 🌱 I’m currently learning: Data Analysis
+- 🔧 Skills: I am proficient in Microsoft Excel, Powerpoint and Word
+- 💞️ I’m looking to collaborating with new people!
 - 📫 How to reach me obyokadigbo@yahoo.com
-- 😄 Pronouns: .She..
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I really love theater arts
 
-
-
-
-
+  Contact: [Email](mailto:obyokadigbo@yahoo.com)
